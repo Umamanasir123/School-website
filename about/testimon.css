@@ -1,0 +1,92 @@
+body{
+    background-color: #fdd5c7;
+}
+h1{
+    width: 100%;
+    height: 80px;
+    text-align: center;
+    line-height: 70px;
+    background-color: rgb(184, 88, 88);
+    font-weight: bold;
+    font-size: 39px;
+    text-align: center;
+    color: rgb(43, 15, 15);
+    text-shadow: 2px 2px 2px wheat;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 3px;
+ 
+}
+div{
+    width: 100%;
+    height: 400px;
+
+}
+h2{
+    border-radius: 4px solid black;
+     /* background-color: rgb(199, 156, 243); */
+     text-align: center;
+     margin-top: 50px;
+     color: black;
+     margin-top: 30px;
+     padding: 10px;
+     font-family:Verdana, Geneva, Tahoma, sans-serif;
+     word-spacing: 10px;
+     letter-spacing: 3px;
+    font-size: 30px;
+    text-decoration: underline;
+    color:rgb(14, 12, 12);
+    text-shadow: -2px -2px 1px rgb(212, 77, 77);
+    text-transform: uppercase;
+   
+}
+.container {
+    width: 95%;
+    padding: 10px;
+
+    margin: 45px auto;
+    display: flex;
+    justify-content: center;
+    height: 510px;
+    background-image: url('abimges/bgtr.webp');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+}
+
+.box {
+    width: 400px;
+    height: 400px;
+    background: rgb(250, 248, 140);
+    margin: 0px 10px;
+    transition: 1s ease-in-out;
+    margin-top: 10px;
+    padding: 9px;
+    box-shadow: -6px -6px 7px salmon;
+    border-radius: 20px ;
+   
+}
+.studbox{
+    height: 320px;
+    text-align: center;
+    margin: auto;
+    padding: 4px;
+}
+
+.imgg {
+    width: 350px;
+    height: 200px;
+    margin: 0px 3px;
+    margin-left: -0px;
+    
+
+}
+p{
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-shadow: 3px 3px 10px rgb(212, 117, 49);
+    color: maroon;
+}
