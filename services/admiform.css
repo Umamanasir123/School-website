@@ -1,0 +1,110 @@
+body{
+    box-sizing: border-box; 
+    background-color: aquamarine;
+}
+body> h1{
+    background-color: black;
+    color: white;
+    width: 100%;
+    padding: 13px;
+    text-align: center;
+}
+form{
+    padding: 10px;
+    width:900px;
+    height: 1300px;
+    border:2px solid black;
+    margin:auto;
+    margin-top: 30px;
+    background-color: aliceblue;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+.f1{
+    text-align: center;
+    margin-top: -80px;
+}
+.f11{
+    text-align: center;
+    text-decoration: underline;
+}
+.a{
+    font-size: 17px;
+}
+.a1{
+
+    font-size: 14px;
+    height: 14px;
+    width: 298px;
+}
+.box{
+    width:150px;
+    height: 150px;
+    border: 2px solid black;
+    text-align: center;
+    margin-left: 700px;
+    margin-top: -100px;
+}
+textarea{
+    resize: none;
+}
+.form2{
+    padding: 10px;
+    width:900px;
+    height: 500px;
+    border:2px solid black;
+    margin:auto;
+    margin-top: 110px;
+  background-color: aliceblue;
+  font-weight: bold;
+}
+.form2 h1{
+    text-align: center;
+    word-spacing: 6px;
+    letter-spacing: 3px;
+    color:rgb(7, 7, 90);
+}
+.form2 h2{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 10px;
+    border: 2px solid black;
+}
+hr{
+    width: 530px;
+    margin-top:-8px;
+    margin-left: 250px;
+    color:solid black;
+}
+ol{
+    font-size: 22px;
+}
+.as{
+    width:270px;
+    margin-left: 140px;
+}
+.ab{
+    width:330px;
+    margin-left: 340px;  
+}
+.rue{
+    font-size: 11px;
+    margin:auto 44px;
+    background-color: rgb(255, 220, 242);
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     box-shadow: 8px 10px 12px rgb(235, 83, 66);
+}
+.rue h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+
+}
+.btn{
+    width: 200px;
+    height: 30px;
+}
+
