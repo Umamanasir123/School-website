@@ -1,0 +1,124 @@
+.cont1{
+    width: 95%;
+    padding: 10px;
+    /* background: rgb(240, 194, 194); */
+    background-image: url('acadimages/bgac.webp');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: -35px auto;
+    display: flex;
+    justify-content: center;
+    height: 340px;  
+    box-shadow: 7px 7px 4px rgb(13, 7, 49);
+}
+
+
+
+.box {
+    width: 300px;
+    height: 200px;
+    background: rgb(184, 228, 253);
+    border-radius: 28px;
+    top:-70px;
+    margin-left: 15px;
+    margin-top: 10px;
+    transition: all 2s ease-in-out;
+}
+
+.imgg {
+    width: 300px;
+    height: 200px;
+    margin: 0px 10px;
+    margin-left: -0px;
+    border-radius: 28px;
+
+}
+
+.box:hover {
+    transform: scale(1.2);
+    box-shadow: 5px 5px 5px #000;
+    transition: all 2s ease-in-out;
+
+}
+.container {
+    width: 95%;
+    padding: 10px;
+    /* background: rgb(240, 194, 194); */
+    background-image: url('acadimages/bgac.webp');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: -35px auto;
+    display: flex;
+    justify-content: center;
+    height: 430px;  
+    box-shadow: 7px 7px 4px rgb(13, 7, 49);
+}
+.paa{
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: rgb(194, 253, 146);
+    margin-top: auto;
+    border-radius: 28px;
+}
+.pa{
+    text-align: center;
+    font-size: 20px;
+    background-color: rgb(194, 253, 146);
+    margin-top: auto;
+    border-radius: 28px;
+    padding: 8px;
+    font-family: 'Bubblegum Sans', cursive;
+}
+.par{
+    background-color: rgb(230, 255, 117);
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Baloo Bhai 2', cursive;
+    
+}
+h2{
+    text-align: center;
+    background-color: rgb(240, 125, 144);
+    color: white;
+    width:auto;
+    letter-spacing: 4px;
+    word-spacing: 5px;
+    padding: 12px;
+    font-family: 'Fredericka the Great', cursive;
+   
+}
+h1{
+    background-color: rgb(126, 40, 40);
+    color:wheat;
+    font-weight: bold;
+    text-align: center;
+    margin-top:0%;
+    word-spacing: 4px;
+    letter-spacing: 3px;
+    font-family: 'Jockey One', sans-serif;
+}
+
+
+.imggg{
+    width: 400px;
+    height: 200px;
+    margin: 0px 10px;
+    margin-left: -0px;
+    border-radius: 28px;
+    
+}
+.boxs{
+    height: 200px;
+    width:450px;
+    margin: 10px;
+    display: inline-block;
+}
+.boxs:hover {
+    transform: scale(1.1);
+    box-shadow: 5px 5px 5px #000;
+    transition: all 2s ease-in-out;
+}

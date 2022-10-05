@@ -1,0 +1,29 @@
+.tab{
+    text-align: center;
+    background-color: pink;  
+}
+table{
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+   width: 930px;
+   
+}
+.im{
+    background-color: rgb(110, 233, 233);
+   font-weight: bold;
+}
+.ui{
+    margin:auto; 
+}
+body{
+    background-image: url('acadimages/bg3.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    background-color: black;
+    color: wheat;
+    text-align: center;
+   padding: 15px;
+}
